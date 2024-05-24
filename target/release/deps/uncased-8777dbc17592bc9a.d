@@ -1,0 +1,11 @@
+C:\Users\gille\Desktop\full_project\target\release\deps\libuncased-8777dbc17592bc9a.rmeta: C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\lib.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\serde.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\owned.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\borrowed.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\as_uncased.rs
+
+C:\Users\gille\Desktop\full_project\target\release\deps\libuncased-8777dbc17592bc9a.rlib: C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\lib.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\serde.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\owned.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\borrowed.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\as_uncased.rs
+
+C:\Users\gille\Desktop\full_project\target\release\deps\uncased-8777dbc17592bc9a.d: C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\lib.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\serde.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\owned.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\borrowed.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\as_uncased.rs
+
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\lib.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\serde.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\owned.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\borrowed.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\as_uncased.rs:

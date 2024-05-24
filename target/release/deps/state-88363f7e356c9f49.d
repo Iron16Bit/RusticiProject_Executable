@@ -1,0 +1,12 @@
+C:\Users\gille\Desktop\full_project\target\release\deps\libstate-88363f7e356c9f49.rmeta: C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\lib.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\ident_hash.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\cell.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\init.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\shim.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\type_map.rs
+
+C:\Users\gille\Desktop\full_project\target\release\deps\libstate-88363f7e356c9f49.rlib: C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\lib.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\ident_hash.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\cell.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\init.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\shim.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\type_map.rs
+
+C:\Users\gille\Desktop\full_project\target\release\deps\state-88363f7e356c9f49.d: C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\lib.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\ident_hash.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\cell.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\init.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\shim.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\type_map.rs
+
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\lib.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\ident_hash.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\cell.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\init.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\shim.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\type_map.rs:

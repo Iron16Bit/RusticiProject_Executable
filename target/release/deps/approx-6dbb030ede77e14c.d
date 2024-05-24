@@ -1,0 +1,11 @@
+C:\Users\gille\Desktop\full_project\target\release\deps\libapprox-6dbb030ede77e14c.rmeta: C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\lib.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\abs_diff_eq.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\relative_eq.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\ulps_eq.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\macros.rs
+
+C:\Users\gille\Desktop\full_project\target\release\deps\libapprox-6dbb030ede77e14c.rlib: C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\lib.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\abs_diff_eq.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\relative_eq.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\ulps_eq.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\macros.rs
+
+C:\Users\gille\Desktop\full_project\target\release\deps\approx-6dbb030ede77e14c.d: C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\lib.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\abs_diff_eq.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\relative_eq.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\ulps_eq.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\macros.rs
+
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\lib.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\abs_diff_eq.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\relative_eq.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\ulps_eq.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\macros.rs:

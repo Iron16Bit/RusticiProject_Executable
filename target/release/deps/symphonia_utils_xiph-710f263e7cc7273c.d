@@ -1,0 +1,10 @@
+C:\Users\gille\Desktop\full_project\target\release\deps\libsymphonia_utils_xiph-710f263e7cc7273c.rmeta: C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\symphonia-utils-xiph-0.5.3\src\lib.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\symphonia-utils-xiph-0.5.3\src\flac\mod.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\symphonia-utils-xiph-0.5.3\src\flac\metadata.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\symphonia-utils-xiph-0.5.3\src\vorbis\mod.rs
+
+C:\Users\gille\Desktop\full_project\target\release\deps\libsymphonia_utils_xiph-710f263e7cc7273c.rlib: C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\symphonia-utils-xiph-0.5.3\src\lib.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\symphonia-utils-xiph-0.5.3\src\flac\mod.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\symphonia-utils-xiph-0.5.3\src\flac\metadata.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\symphonia-utils-xiph-0.5.3\src\vorbis\mod.rs
+
+C:\Users\gille\Desktop\full_project\target\release\deps\symphonia_utils_xiph-710f263e7cc7273c.d: C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\symphonia-utils-xiph-0.5.3\src\lib.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\symphonia-utils-xiph-0.5.3\src\flac\mod.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\symphonia-utils-xiph-0.5.3\src\flac\metadata.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\symphonia-utils-xiph-0.5.3\src\vorbis\mod.rs
+
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\symphonia-utils-xiph-0.5.3\src\lib.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\symphonia-utils-xiph-0.5.3\src\flac\mod.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\symphonia-utils-xiph-0.5.3\src\flac\metadata.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\symphonia-utils-xiph-0.5.3\src\vorbis\mod.rs:

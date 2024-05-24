@@ -1,0 +1,11 @@
+C:\Users\gille\Desktop\full_project\target\release\deps\libbevy_gizmos-74f6af4a6c5534a0.rmeta: C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\lib.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\gizmos.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\pipeline_2d.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\pipeline_3d.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\lines.wgsl
+
+C:\Users\gille\Desktop\full_project\target\release\deps\libbevy_gizmos-74f6af4a6c5534a0.rlib: C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\lib.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\gizmos.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\pipeline_2d.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\pipeline_3d.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\lines.wgsl
+
+C:\Users\gille\Desktop\full_project\target\release\deps\bevy_gizmos-74f6af4a6c5534a0.d: C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\lib.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\gizmos.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\pipeline_2d.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\pipeline_3d.rs C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\lines.wgsl
+
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\lib.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\gizmos.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\pipeline_2d.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\pipeline_3d.rs:
+C:\Users\gille\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_gizmos-0.12.1\src\lines.wgsl:
